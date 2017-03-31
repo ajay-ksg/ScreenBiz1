@@ -1,0 +1,25 @@
+
+
+
+
+<!-- begin snippet: js hide: false console: false babel: false -->
+
+<!-- language: lang-css -->
+
+    html,body{height:100%;margin:0;padding:0;}
+    .container-fluid,.row{height:100%;background-color:grey}
+    .board-container{padding:40px;box-sizing:border-box}
+    .board{background-color:teal;height:100%;padding:40px;}
+
+<!-- language: lang-html -->
+
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <div class="container-fluid">
+      <div class="row board-container">
+        <div class="board">Board Game</div> 
+      </div>
+    </div>
+
+<!-- end snippet -->
+
